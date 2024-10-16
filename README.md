@@ -1,4 +1,4 @@
-# Summary
+## Summary
 
 This reposity contains code accompanying the manuscript "*TMEM259* alleles modulate respiratory syncytial virus infection and ER-stress-triggered apoptosis".
 
