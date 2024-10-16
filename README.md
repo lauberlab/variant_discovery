@@ -19,7 +19,7 @@ Full list of tools used in this pipeline
 - Samtools
 
 ## Meta-analysis
-This folder contains the R script that was used to conduct the meta-analysis of IRIS1+2+3 vs. LoewenKIDS. It used the R package [meta](https://github.com/guido-s/meta/).
+This folder contains the R script that was used to conduct the meta-analysis of IRIS1+2+3 vs. LoewenKIDS. It uses the R package [meta](https://github.com/guido-s/meta/).
 
 ## Colocalization analysis
 This folder contains the R script that was used to conduct the co-localization analysis. It uses the R package [coloc](https://github.com/chr1swallace/coloc). 
